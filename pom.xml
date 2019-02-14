@@ -699,12 +699,7 @@
             <scope>provided</scope>
         </dependency>
         <!-- == End Tomcat == -->
-        <distributionManagement>
-            <snapshotRepository>
-            <id>nexus-snapshots</id>
-            <url>http://34.214.166.235:8081/#admin/repositories</url>
-            </snapshotRepository>
-        </distributionManagement>
+        
     </dependencies>
     <properties>
         <!-- == Google == -->
